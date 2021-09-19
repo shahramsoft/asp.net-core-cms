@@ -59,15 +59,15 @@ namespace Shop.API.Models
                     {
                         Name = "White Shirts",
                         CategoryId = 1,
-                        Description = "a blue tshirt",
-                        Image = "blue_tshirt.jpg",
+                        Description = "a white tshirt",
+                        Image = "white_tshirt.jpg",
                         Price = 1.99M,
                     }, new Product
                     {
                         Name = "Apples",
                         CategoryId = 2,
                         Description = "a red apples",
-                        Image = "apples.jpg",
+                        Image = "fruits.jpg",
                         Price = 2.99M,
                     }
                 );
